@@ -1,0 +1,31 @@
+﻿<!-- *****************************************
+                MENU ADMIN
+********************************************** -->
+
+<div class="contenedor">
+    <!-- Menu -->
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#"><img src="~/Imagenes/logo.jpg" alt="Logo" class="img-logo" /></a>
+            </div>
+            <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Inicio", "Index", "Admin")</li>
+                    <li>@Html.ActionLink("Crear Paquete", "CrearPaquete", "Admin")</li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    @if ((TurismoExel.Models.Usuario)Session["SesionAdmin"] != null)
+                    {
+                        TurismoExel.Models.Usuario u = (TurismoExel.Models.Usuario)Session["SesionAdmin"];
+                        <li><div class="userNav"><span class="glyphicon glyphicon-user"></span> @u.Nombre @u.Apellido</div></li>
+                        <li>@Html.ActionLink("Cerrar Sesion", "Logout", "Home")</li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </nav>
+</div>

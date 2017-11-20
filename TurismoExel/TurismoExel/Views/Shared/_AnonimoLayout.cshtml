@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/bundles/css")
+    @Scripts.Render("~/bundles/scriptsHead")
+</head>
+<body>
+    <!-- ********* Menu Anonimo ********* -->
+    @Html.Partial("_pvMenuAnonimo")
+
+    @RenderBody()
+
+    @Scripts.Render("~/bundles/scriptsFooter")
+</body>
+</html>

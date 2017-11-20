@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/bundles/css")
+    @Scripts.Render("~/bundles/scriptsHead")
+</head>
+<body>
+    <!-- ********* Menu Usuario ********* -->
+    @Html.Partial("_pvMenuUsuario")
+
+    @RenderBody()
+
+    @Scripts.Render("~/bundles/scriptsFooter")
+    @Scripts.Render("~/bundles/scriptsAjax")
+</body>
+</html>

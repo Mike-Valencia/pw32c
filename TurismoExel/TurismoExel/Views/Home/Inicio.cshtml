@@ -1,0 +1,47 @@
+﻿@using TurismoExel.Models
+@model List<Paquete>
+
+@{
+    ViewBag.Title = "Inicio";
+    Layout = "~/Views/Shared/_AnonimoLayout.cshtml";
+}
+
+@Html.Partial("_pvCarouselAnonimo")
+
+<!-- *****************************************
+              PAQUETE DESTACADOS
+********************************************** -->
+<div class="container">
+    <h2 class="titulo-principal">Paquetes destacados</h2>
+    <div id="columna-flex">
+        @foreach (Paquete p in Model)
+            {
+            <div class="columna-item">
+                <div class="box-paqDestacados">
+                    <a href="#" data-toggle="modal" data-target="#@p.Id"><img src="@p.Foto" class="img-responsive"></a>
+                    <div class="contenido-paqDestacados">
+                        <h4>@p.Nombre</h4>
+                        <p><span class="glyphicon glyphicon-calendar"></span> @p.FechaInicio</p>
+                        <h5><span class="label label-success">Precio: $@p.PrecioPorPersona</span></h5>
+                    </div>
+                    <p class="botones-paqDestacados">
+                        @Html.ActionLink("RESERVAR", "Detalle/", "Paquete", new { id = @p.Id }, new { @class = "btn btn-success" })
+                    </p>
+                </div>
+            </div>
+
+            <!-- ******************** Lightbox ******************** -->
+                <div id="@p.Id" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <button type="button" class="lightbox-close" data-dismiss="modal" aria-hidden="true">X</button>
+                        <div class="modal-content">
+                            <div class="modal-body">
+                                <img src="@p.Foto" alt="" class="img-responsive" />
+                                <h2 class="lightbox-contenido">@p.Nombre</h2>
+                            </div>
+                        </div>
+                    </div>
+                </div> <!-- ************ Cierre Lightbox ************** -->
+        }
+    </div>
+</div>

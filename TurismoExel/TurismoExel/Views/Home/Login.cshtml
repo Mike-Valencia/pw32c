@@ -1,0 +1,37 @@
+﻿@using TurismoExel.Models
+@model Usuario
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_AnonimoLayout.cshtml";
+}
+
+<!-- *****************************************
+              FORMULARIO LOGIN
+********************************************** -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6 col-md-4 col-md-offset-4">
+            <div class="contenedor-login">
+                <img src="~/Imagenes/avatar.png" alt="" class="img-login" />
+
+                <div class="form-login">
+                    <!-- Formulario -->
+                    @using (Html.BeginForm("Login", "Home"))
+                    {
+                        @Html.TextBoxFor(m => m.Email, new { placeholder = "Ingresar Correo Electrónico", @class = "form-control", autofocus = "" })
+                        @Html.ValidationMessageFor(m => m.Email, "", new { @class = "msj-error" })
+
+                        @Html.PasswordFor(m => m.Contrasenia, new { placeholder = "Ingresar Contraseña", @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.Contrasenia, "", new { @class = "msj-error" })
+
+                        <input type="submit" class="btn btn-lg btn-primary btn-block" value="Iniciar Sesión" />
+                    }
+                    <!-- Error Datos Invalidos -->
+                    <p class="msj-error">@TempData["Validacion"]</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

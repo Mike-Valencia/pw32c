@@ -1,0 +1,115 @@
+﻿@using TurismoExel.Models
+@model Paquete
+
+@{
+    ViewBag.Title = "Crear Paquete";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<!-- *****************************************
+                CREAR PAQUETE
+********************************************** -->
+<div id="form-paquete">
+    <!-- Formulario -->
+    @using (Html.BeginForm("CrearPaquete", "Admin", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <!-- Titulo -->
+        <h2 class="form-titulo">Nuevo Paquete</h2>
+
+            <!-- Nombre -->
+        <div class="row">
+            <div class="col-sm-12 col-md-12">
+                <div class="form-group">
+                    @Html.Label("*Nombre")
+                    @Html.TextBoxFor(m => m.Nombre, new { placeholder = "Ingresar Nombre", @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Nombre, "", new { @class = "msj-error" })
+                </div>
+            </div>
+        </div>
+
+            <!-- Descripcion -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="form-group">
+                    @Html.Label("*Descripción")
+                    @Html.TextBoxFor(m => m.Descripcion, new { placeholder = "Ingresar Descripción", @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Descripcion, "", new { @class = "msj-error" })
+                </div>
+            </div>
+        </div>
+
+            <!-- File Imagen -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="form-group">
+                    @Html.Label("*Imagen")
+                    @Html.TextBoxFor(m => m.Foto, new { Type = "file" })
+                    @Html.ValidationMessageFor(m => m.Foto, "", new { @class = "msj-error" })
+                </div>
+            </div>
+        </div>
+
+            <div class="row">
+                <!-- Fecha Inicio -->
+                <div class="col-md-6">
+                    <div class="form-group">
+                        @Html.Label("*Fecha Inicio")
+                        @Html.TextBoxFor(m => m.FechaInicio, new { placeholder = "dd/mm/yyyy hh:mm", @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.FechaInicio, "", new { @class = "msj-error" })
+                    </div>
+                </div>
+
+                <!-- Fecha Fin -->
+                <div class="col-md-6">
+                    <div class="form-group">
+                        @Html.Label("*Fecha Fin")
+                        @Html.TextBoxFor(m => m.FechaFin, new { placeholder = "dd/mm/yyyy hh:mm", @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.FechaFin, "", new { @class = "msj-error" })
+                    </div>
+                </div>
+            </div>
+
+            <!-- Lugares Disponibles -->
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        @Html.Label("*Lugares Disponibles")
+                        @Html.TextBoxFor(m => m.LugaresDisponibles, new { placeholder = "N° Cantidad", @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.LugaresDisponibles, "", new { @class = "msj-error" })
+                    </div>
+                </div>
+
+                <!-- Precio -->
+                <div class="col-md-6">
+                    <div class="form-group">
+                        @Html.Label("*Precio por Persona")
+                        @Html.TextBoxFor(m => m.PrecioPorPersona, new { placeholder = "Ingresar Precio", @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.PrecioPorPersona, "", new { @class = "msj-error" })
+                    </div>
+                </div>
+            </div>
+
+            <!-- Destacado -->
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="form-group">
+                        <div class="control-label">
+                            @Html.CheckBoxFor(m => m.Destacado)
+                            @Html.Label("Destacado")
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Boton Guardar -->
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <input type="submit" class="btn btn-success" value="Guardar" />
+
+                    <!-- Link Cancelar -->
+                    @Html.ActionLink("Cancelar", "Index", null, new { @class = "btn btn-default" })
+                </div>
+            </div>
+    }
+</div> <!-- Cierre formulario -->

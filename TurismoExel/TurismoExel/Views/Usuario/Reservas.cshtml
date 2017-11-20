@@ -1,0 +1,75 @@
+﻿@using PagedList.Mvc;
+@using PagedList;
+@using TurismoExel.Models
+@model IPagedList<Reserva>
+
+@{
+
+    Layout = "~/Views/Shared/_UsuarioLayout.cshtml";
+}
+
+<!-- *****************************************
+              LISTA DE RESERVAS
+********************************************** -->
+<h2 class="titulo-user">Lista de Reservas</h2>
+
+<!-- ************************ Alerta ***************************************** -->
+@if (@TempData["MensajeServicio"] != null)
+{
+    <div class="container-fluid">
+        <div class="alert alert-danger">
+            <button class="close" data-dismiss="alert"><span>&times;</span></button>
+            @TempData["MensajeServicio"]
+        </div>
+    </div>
+}
+<!-- ************************************************************************** -->
+
+<!--  Alert Ajax  -->
+<div class="container-fluid"><div id="alert-ajax"></div></div>
+
+
+<div class="table-responsive">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Fecha Inicio</th>
+                <th>Fecha Fin</th>
+                <th>Lugares Reservados</th>
+                <th>Precio Por Persona</th>
+                <th>Precio Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Reserva r in Model)
+            {
+                <tr>
+                    <td>@r.Paquete.Nombre</td>
+                    @if (@r.Paquete.FechaInicio < DateTime.Now)
+                    {
+                        <td><span class="fecha-alerta">@r.Paquete.FechaInicio</span></td>
+                    }
+                    else
+                    {
+                        <td>@r.Paquete.FechaInicio</td>
+                    }
+                    <td>@r.Paquete.FechaFin</td>
+                    <td>@r.CantPersonas</td>
+                    <td>@r.Paquete.PrecioPorPersona</td>
+                    <td>@(r.Paquete.PrecioPorPersona * r.CantPersonas)</td>
+                    <td class="text-center"><a data-id="@r.Id" class="btn btn-danger cancelar-reserva">Cancelar</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <!-- *********************** Paginacion *********************** -->
+    <div class="text-center">
+
+        @Html.PagedListPager(Model, page => Url.Action("Reservas", new { page, pageSize = Model.PageSize }))
+        Página @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) a @Model.PageCount
+
+    </div>
+    <!-- ****************************************************** -->
+</div>

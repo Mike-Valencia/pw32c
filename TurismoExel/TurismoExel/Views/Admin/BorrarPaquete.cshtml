@@ -1,0 +1,25 @@
+﻿@using TurismoExel.Models
+@model Paquete
+
+@{
+    ViewBag.Title = "Borrar Paquete";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<div id="form-eliminar">
+    <div class="alert-eliminar">
+        <p>¿Está seguro que desea eliminar el paquete <span>@Model.Nombre</span>?</p>
+        <p>Actualmente posee <span>@Model.Reserva.Count</span> reservas.</p>
+    </div>
+
+    @using (Html.BeginForm("BorrarPaquete", "Admin"))
+    {
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <input type="submit" value="Eliminar" class="btn btn-danger" />
+
+                <!-- Link Cancelar -->
+                @Html.ActionLink("Cancelar", "Index", null, new { @class = "btn btn-default" })
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,197 @@
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\ApplicationInsights.config
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\roslyn\csc.exe
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\roslyn\vbc.exe
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\TurismoExel.dll.config
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\TurismoExel.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\TurismoExel.pdb
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\Antlr3.Runtime.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\EntityFramework.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\EntityFramework.SqlServer.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\Microsoft.AI.Web.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\Newtonsoft.Json.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\System.Web.Helpers.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\System.Web.Mvc.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\System.Web.Optimization.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\System.Web.Razor.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\System.Web.Webpages.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\System.Web.Webpages.Razor.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\WebGrease.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\Antlr3.Runtime.pdb
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\EntityFramework.xml
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\EntityFramework.SqlServer.xml
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\Microsoft.AI.Web.xml
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\Newtonsoft.Json.xml
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\System.Web.Optimization.xml
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\System.Web.Razor.xml
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\System.Web.Webpages.xml
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\System.Web.Webpages.Razor.xml
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\System.Web.Helpers.xml
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\System.Web.Mvc.xml
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\es\System.Web.Razor.resources.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\obj\Debug\TurismoExel.dll
+C:\Users\Julian\documents\visual studio 2015\Projects\TurismoExel\TurismoExel\obj\Debug\TurismoExel.pdb
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\ApplicationInsights.config
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\roslyn\csc.exe
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\roslyn\vbc.exe
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\TurismoExel.dll.config
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\TurismoExel.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\TurismoExel.pdb
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\Antlr3.Runtime.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\EntityFramework.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\EntityFramework.SqlServer.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\Microsoft.AI.Web.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\Newtonsoft.Json.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\System.Web.Helpers.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\System.Web.Mvc.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\System.Web.Optimization.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\System.Web.Razor.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\System.Web.Webpages.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\System.Web.Webpages.Razor.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\WebGrease.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\Antlr3.Runtime.pdb
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\EntityFramework.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\EntityFramework.SqlServer.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\Microsoft.AI.Web.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\Newtonsoft.Json.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\System.Web.Optimization.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\System.Web.Razor.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\System.Web.Webpages.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\System.Web.Webpages.Razor.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\System.Web.Helpers.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\System.Web.Mvc.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\es\System.Web.Razor.resources.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\obj\Debug\TurismoExel.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\obj\Debug\TurismoExel.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel V2.4\TurismoExel\TurismoExel\obj\Debug\TurismoExel.pdb
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel\TurismoExel\bin\PagedList.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel\TurismoExel\bin\PagedList.Mvc.dll
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel\TurismoExel\bin\PagedList.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel\TurismoExel\bin\PagedList.Mvc.xml
+C:\Users\Julian\Documents\Visual Studio 2015\Projects\TurismoExel\TurismoExel\obj\Debug\TurismoExel.csprojResolveAssemblyReference.cache
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\obj\Debug\TurismoExel.csprojResolveAssemblyReference.cache
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\obj\Debug\TurismoExel.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\obj\Debug\TurismoExel.pdb
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\ApplicationInsights.config
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\roslyn\csc.exe
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\roslyn\vbc.exe
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\roslyn\VBCSCompiler.exe
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\TurismoExel.dll.config
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\TurismoExel.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\TurismoExel.pdb
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\Antlr3.Runtime.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\EntityFramework.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\EntityFramework.SqlServer.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\Microsoft.AI.Web.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\Newtonsoft.Json.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\PagedList.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\PagedList.Mvc.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\System.Web.Helpers.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\System.Web.Mvc.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\System.Web.Optimization.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\System.Web.Razor.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\System.Web.Webpages.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\System.Web.Webpages.Razor.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\WebGrease.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\Antlr3.Runtime.pdb
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\EntityFramework.xml
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\EntityFramework.SqlServer.xml
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\Microsoft.AI.Web.xml
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\Newtonsoft.Json.xml
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\PagedList.xml
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\PagedList.Mvc.xml
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\System.Web.Optimization.xml
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\System.Web.Razor.xml
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\System.Web.Webpages.xml
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\System.Web.Webpages.Razor.xml
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\System.Web.Helpers.xml
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\System.Web.Mvc.xml
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\es\System.Web.Razor.resources.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\es\System.Web.Webpages.resources.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\es\System.Web.Helpers.resources.dll
+C:\Users\MIKE\Desktop\Capturas Magento\TurismoExel\TurismoExel\bin\es\System.Web.Mvc.resources.dll
